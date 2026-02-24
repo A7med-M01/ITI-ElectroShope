@@ -19,4 +19,25 @@ To view this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/A7med-M01/ITI-ElectroShope.git
+   git clone https://github.com/A7med-M01/ITI-ElectroShope.git.
+
+## 🌐 Live Demo
+Check out the live website here: [ITI-ElectroShope Live](https://a7med-m01.github.io/ITI-ElectroShope/index.html)
+
+## 📸 Project Showcase
+
+here is a preview of the **ITI-ElectroShope** landing page:
+
+<p align="center">
+  <img src="./assets/images/1.png" alt="ITI-ElectroShope Home Page" width="800">
+  <br>
+  <em>Main Landing Page highlighting featured electronics and categories.</em>
+</p>
+
+## 📬 Contact Me
+
+Let's connect! Whether you have a question about this project or want to collaborate on something new, feel free to reach out:
+
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/ahmedmahmoudabdallah/)
+[![Mail](https://img.shields.io)](mailto:your.Ahmed-M01@outlook.com)
+[![GitHub](https://img.shields.io)](https://github.com/A7med-M01)
