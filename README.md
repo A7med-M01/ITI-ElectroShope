@@ -29,7 +29,7 @@ Check out the live website here: [ITI-ElectroShope Live](https://a7med-m01.githu
 here is a preview of the **ITI-ElectroShope** landing page:
 
 <p align="center">
-  <img src="./assets/images/1.png" alt="ITI-ElectroShope Home Page" width="800">
+  <img src="./assets/1.png" alt="ITI-ElectroShope Home Page" width="800">
   <br>
   <em>Main Landing Page highlighting featured electronics and categories.</em>
 </p>
@@ -38,6 +38,7 @@ here is a preview of the **ITI-ElectroShope** landing page:
 
 Let's connect! Whether you have a question about this project or want to collaborate on something new, feel free to reach out:
 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/ahmedmahmoudabdallah/)
-[![Mail](https://img.shields.io)](mailto:your.Ahmed-M01@outlook.com)
-[![GitHub](https://img.shields.io)](https://github.com/A7med-M01)
+- **Email:** Ahmed-M01@outlook.com  
+- **LinkedIn:** [Ahmed Mahmoud Abdallah](https://www.linkedin.com/in/ahmedmahmoudabdallah/)  
+- **GitHub:** [A7med-M01](https://github.com/A7med-M01)
+
