@@ -22,7 +22,8 @@ To view this project locally:
    git clone https://github.com/A7med-M01/ITI-ElectroShope.git.
 
 ## 🌐 Live Demo
-Check out the live website here: [ITI-ElectroShope Live](https://a7med-m01.github.io/ITI-ElectroShope/index.html)
+Check out the live website here: <a href="https://a7med-m01.github.io/ITI-ElectroShope/index.html" target="_blank">ITI-ElectroShope Live</a>
+
 
 ## 📸 Project Showcase
 
